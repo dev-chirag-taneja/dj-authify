@@ -138,3 +138,5 @@ GitHub.sublime-settings
 
 core/settings/production.py
 staticfiles
+
+**/migrations/
